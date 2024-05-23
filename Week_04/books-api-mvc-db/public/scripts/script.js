@@ -25,4 +25,4 @@ async function fetchBooks() {
     });
   }
   
-  fetchBooks(); // Call the function to fetch and display book data
+  fetchBooks(); // Call the function to fetch and display user data
